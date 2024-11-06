@@ -1,6 +1,6 @@
 # Manexp
 
-Manexp est une application de gestion d'exploitation agricole disponible sur android. 
+Manexp est une application de gestion d'exploitation agricole disponible pour android. 
 
 ## Fonctionnalités
 
