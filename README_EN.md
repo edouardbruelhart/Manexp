@@ -1,3 +1,5 @@
+cliquez [ici](https://github.com/edouardbruelhart/Manexp/blob/main/README.md) pour la version française.
+
 # Manexp
 
 Manexp is a farm management application available for Android.
