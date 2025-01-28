@@ -29,4 +29,4 @@ This feature is currently under development and is expected to be available in t
 The app includes a synchronization system to keep data updated across different devices. This ensures up-to-date information is accessible across all devices used on the farm. The system is offline-friendly, allowing users to decide when to synchronize their data.
 
 ## Get the App
-The app can be downloaded for free [here](https://github.com/edouardbruelhart/Manexp/releases/latest) to test all its basic features. However, to unlock advanced features like data backup and synchronization across devices, please [contact me](mailto:edouard.brulhart@gmail.com) directly to arrange a pricing plan.
+The app can be downloaded for free [here](https://github.com/edouardbruelhart/Manexp/releases/latest) to test all its basic features (You just have to download the .apk file and execute it on an android device). However, to unlock advanced features like data backup and synchronization across devices, please [contact me](mailto:edouard.brulhart@gmail.com) directly to arrange a pricing plan.
