@@ -1,4 +1,5 @@
 cliquez [ici](https://github.com/edouardbruelhart/Manexp/blob/main/README.md) pour la version française.
+clicken Sie [hier](https://github.com/edouardbruelhart/Manexp/blob/main/README_DE.md) für deutsche version.
 
 # Manexp
 
@@ -22,7 +23,7 @@ An interface lets users view the recorded diseases for each animal. It also allo
 Each animal can be associated with multiple photographs.
 
 ### Keep Track of Animal Movements
-A calendar and scheduler enable users to keep track of the movements of different groups of animals. An annual calendar in PDF format can also be generated for these movements, following the format provided by AFAPI.
+A calendar and scheduler enable users to keep track of the movements of different groups of animals. An annual calendar in PDF format can also be generated for these movements, following the format provided by [AFAPI](https://www.afapi-fipo.ch/production-animale/sst).
 
 ### Maintain the Farm's Field Logbook
 This feature is currently under development and is expected to be available in the next version of the app.
